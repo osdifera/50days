@@ -2,4 +2,4 @@
 
 50 projects in 50 days
 
-1.- Starter project
+1.- Expanding Cards
